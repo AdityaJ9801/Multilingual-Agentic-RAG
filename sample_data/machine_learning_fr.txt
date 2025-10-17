@@ -1,0 +1,15 @@
+Apprentissage Automatique
+
+L'apprentissage automatique est un sous-ensemble de l'intelligence artificielle (IA) qui se concentre sur le développement d'algorithmes et de modèles statistiques qui permettent aux ordinateurs d'apprendre et de s'améliorer à partir de l'expérience sans être explicitement programmés.
+
+Concepts Clés:
+1. Apprentissage Supervisé: Apprentissage à partir de données étiquetées
+2. Apprentissage Non Supervisé: Trouver des modèles dans les données non étiquetées
+3. Apprentissage par Renforcement: Apprentissage par interaction et récompenses
+
+Applications:
+- Reconnaissance d'images
+- Traitement du langage naturel
+- Systèmes de recommandation
+- Véhicules autonomes
+- Diagnostic médical
