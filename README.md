@@ -208,15 +208,6 @@ bash scripts/ingest_sample_data.sh
 - Verify Ollama is running: `docker-compose ps`
 - Reduce `top_k` parameter in queries
 
-## 📊 Test Results
-
-✅ **All Tests Passed (5/5)**
-- 🇬🇧 English: ✅ PASSED
-- 🇪🇸 Spanish: ✅ PASSED
-- 🇫🇷 French: ✅ PASSED
-- 🇨🇳 Chinese: ✅ PASSED
-- 🇸🇦 Arabic: ✅ PASSED
-
 ## 📁 Project Structure
 
 ```
@@ -233,13 +224,6 @@ multi_agentic_rag/
 └── README.md              # This file
 ```
 
-## 📚 Documentation
-
-- **INSTALLATION_GUIDE.md** - Step-by-step setup
-- **ARCHITECTURE.md** - System design
-- **API_DOCS.md** - API endpoints
-- **INDEX.md** - File organization
-
 ## 🛑 Stopping Services
 
 ```bash
@@ -250,22 +234,4 @@ docker-compose down
 docker-compose down -v
 ```
 
-## 📄 License
-
-This project is provided as-is for educational and commercial use.
-
-## 📞 Support
-
-For detailed information:
-- 📖 See **INSTALLATION_GUIDE.md** for setup
-- 🏗️ See **ARCHITECTURE.md** for system design
-- 📚 See **API_DOCS.md** for API details
-
----
-
-**Version**: 1.0.0
-**Status**: ✅ Production Ready
-**Last Updated**: October 17, 2025
-
-🎉 **Ready to use! Follow INSTALLATION_GUIDE.md to get started.**
 
