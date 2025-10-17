@@ -37,8 +37,8 @@ A **production-ready** Retrieval-Augmented Generation (RAG) system with **multil
 
 ### Step 1: Clone Project
 ```bash
-git clone <repository-url>
-cd multi_agentic_rag
+git clone  https://github.com/AdityaJ9801/Multilingual-Agentic-RAG.git
+cd Multilingual-Agentic-RAG
 ```
 
 ### Step 2: Start Services
