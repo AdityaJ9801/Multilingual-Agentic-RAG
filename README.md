@@ -2,6 +2,8 @@
 
 A **production-ready** Retrieval-Augmented Generation (RAG) system with **multilingual support** and **agentic architecture** using open-source LLM models.
 
+https://github.com/AdityaJ9801/Multilingual-Agentic-RAG/blob/5c18ef9cf0da327051cd6a106a7e4f29762abb14/Agentic_RAG_demo_video.webm
+
 ## ✨ Key Features
 
 ### 🌍 Multilingual Support
